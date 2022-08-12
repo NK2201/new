@@ -1,7 +1,4 @@
-.. toctree::
-   :maxdepth: 3
-
-   description
+description
    installation
    supported_io
    usage
